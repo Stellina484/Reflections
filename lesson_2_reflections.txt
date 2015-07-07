@@ -8,3 +8,14 @@ The staging area designates some files from the working directory to become part
 You can use the staging area to check what you have changed from the working directory.
 You can also use it to check what has changed since the last commit.
 You can then only commit when you have a logical change for that commit. 
+
+Branches help if you want to have two different, contemporary versions of the project.
+They can help for experimental versions. 
+They can help for different features. 
+They allow you to continue development in multiple directions simultaneously. 
+
+Diagrams help you understand branches in a few ways.
+One way is that they let you know what the last commit was before the branch.
+They also help you understand what commits were part of what branch. 
+They also help you figure out what commits are reachable from what branch - 
+and which commits aren't reachable by any branch. 
