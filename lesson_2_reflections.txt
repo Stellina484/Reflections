@@ -1,0 +1,2 @@
+Initializing a repository allows you to use git in that folder. 
+It does not automatically commit for you. 
