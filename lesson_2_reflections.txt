@@ -4,3 +4,7 @@ It does not automatically commit for you.
 the staging area allows you the flexibility to only commit some files. 
 It allows you to make more logical commits. 
 The staging area designates some files from the working directory to become part of the repository in the next commit. 
+
+You can use the staging area to check what you have changed from the working directory.
+You can also use it to check what has changed since the last commit.
+You can then only commit when you have a logical change for that commit. 
