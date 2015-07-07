@@ -1,0 +1,29 @@
+Viewing a difference between two files showed what changed between the two. 
+This helped us catch any typos or errors. 
+In particular, it helped if you accidentally changed something beyond what you meant to change. 
+It also helped bring you to the lines that changed, even if you meant to change them. 
+
+Having easy access to a file's history can help you learn from it.  
+You can see where you went wrong, and make sure you don't repeat that mistake. 
+You can also come back after you've learned a new tool and see how it might have helped.  
+
+Manual commits are good because they can come at logical points and when the code would run. 
+Automatic commits are nice because you won't forget. 
+
+Git and others allow multiple file commits because they are designed for projects where files tend to be interrelated. 
+Other systems, like google docs, are not designed for this type of project. 
+
+You can use git log to see all of the commits. 
+You can use git diff to see the difference between any two of these commits. 
+
+If it is easy to go back to an earlier version, then taking risks is less scary.
+You can't really mess it up permanently if you can always 'undo'!
+
+I want to use git to keep track of files for my dissertation. 
+
+
+
+708bcce690e5faa5739bd471507c102ea16b77f7
+
+547f4171a82ec6429d002c1acef357aec41d3f17
+
