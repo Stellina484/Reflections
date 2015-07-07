@@ -1,2 +1,6 @@
 Initializing a repository allows you to use git in that folder. 
 It does not automatically commit for you. 
+
+the staging area allows you the flexibility to only commit some files. 
+It allows you to make more logical commits. 
+The staging area designates some files from the working directory to become part of the repository in the next commit. 
