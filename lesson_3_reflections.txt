@@ -1,3 +1,7 @@
 You might want to use remote repositories when working with others.
 You might also want to do it if you are using multiple computers.
 You might also want to do it if you are worried about losing data. 
+
+You might want to push and pull manually so that things go in logical chunks.
+It is also more efficient if there will be lots of commits. 
+You also don't push(pull) something that doesn't make sense without further commits. 
